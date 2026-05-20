@@ -1,0 +1,241 @@
+{
+  "skills": [
+    {
+      "name": "AWS",
+      "tier": "core"
+    },
+    {
+      "name": "Azure",
+      "tier": "core"
+    },
+    {
+      "name": "Google Cloud",
+      "tier": "core"
+    },
+    {
+      "name": "Kubernetes",
+      "tier": "core"
+    },
+    {
+      "name": "Docker",
+      "tier": "core"
+    },
+    {
+      "name": "Python",
+      "tier": "core"
+    },
+    {
+      "name": "TypeScript",
+      "tier": "core"
+    },
+    {
+      "name": "Node.js",
+      "tier": "strong"
+    },
+    {
+      "name": "Vue.js",
+      "tier": "strong"
+    },
+    {
+      "name": "React",
+      "tier": "strong"
+    },
+    {
+      "name": "Laravel",
+      "tier": "strong"
+    },
+    {
+      "name": "SQL",
+      "tier": "strong"
+    },
+    {
+      "name": "PostgreSQL",
+      "tier": "strong"
+    },
+    {
+      "name": "Bash",
+      "tier": "strong"
+    },
+    {
+      "name": "OpenAI workflows",
+      "tier": "strong"
+    },
+    {
+      "name": "TensorFlow",
+      "tier": "strong"
+    },
+    {
+      "name": "PyTorch",
+      "tier": "strong"
+    },
+    {
+      "name": "scikit-learn",
+      "tier": "strong"
+    },
+    {
+      "name": "Grafana",
+      "tier": "strong"
+    },
+    {
+      "name": "OpenTelemetry",
+      "tier": "strong"
+    },
+    {
+      "name": "Sentry",
+      "tier": "strong"
+    },
+    {
+      "name": "Azure DevOps",
+      "tier": "strong"
+    },
+    {
+      "name": "GitHub",
+      "tier": "strong"
+    },
+    {
+      "name": "REST",
+      "tier": "strong"
+    },
+    {
+      "name": "GraphQL",
+      "tier": "strong"
+    },
+    {
+      "name": "OAuth2",
+      "tier": "strong"
+    },
+    {
+      "name": "SSO",
+      "tier": "strong"
+    },
+    {
+      "name": "PHP",
+      "tier": "peripheral"
+    },
+    {
+      "name": "cPanel",
+      "tier": "peripheral"
+    },
+    {
+      "name": "MicroK8s",
+      "tier": "peripheral"
+    },
+    {
+      "name": "EKS",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Vite",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Nx",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Alloy",
+      "tier": "peripheral"
+    },
+    {
+      "name": "NoSQL",
+      "tier": "peripheral"
+    },
+    {
+      "name": "ETL",
+      "tier": "peripheral"
+    },
+    {
+      "name": "MCP",
+      "tier": "peripheral"
+    },
+    {
+      "name": "JavaScript",
+      "tier": "strong"
+    },
+    {
+      "name": "HTML",
+      "tier": "strong"
+    },
+    {
+      "name": "CSS",
+      "tier": "strong"
+    }
+  ],
+  "titles": [
+    "Senior Cloud Engineer",
+    "Staff Engineer",
+    "Platform Engineering Lead",
+    "DevOps Lead"
+  ],
+  "keywords": [
+    "aws",
+    "azure",
+    "google cloud",
+    "kubernetes",
+    "docker",
+    "python",
+    "typescript",
+    "node.js",
+    "vue.js",
+    "react",
+    "laravel",
+    "sql",
+    "postgresql",
+    "bash",
+    "openai workflows",
+    "tensorflow",
+    "pytorch",
+    "scikit-learn",
+    "grafana",
+    "opentelemetry",
+    "sentry",
+    "azure devops",
+    "github",
+    "rest",
+    "graphql",
+    "oauth2",
+    "sso",
+    "php",
+    "cpanel",
+    "microk8s",
+    "eks",
+    "vite",
+    "nx",
+    "alloy",
+    "nosql",
+    "etl",
+    "mcp",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "locations": [
+    "Melbourne"
+  ],
+  "roles": [
+    "Senior Cloud Engineer",
+    "Staff Engineer",
+    "Platform Engineering Lead",
+    "DevOps Lead"
+  ],
+  "weights": {
+    "companyTier": 1,
+    "location": 2,
+    "titleMatch": 1,
+    "skills": 2,
+    "sponsorship": 0,
+    "recency": 2,
+    "culture": 1,
+    "quality": 1
+  },
+  "minScore": 20,
+  "maxHours": 24,
+  "resultsPerSearch": 20,
+  "excludeSeniority": [
+    "senior",
+    "lead",
+    "staff",
+    "director",
+    "executive"
+  ]
+}
